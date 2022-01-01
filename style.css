@@ -1,0 +1,19 @@
+body{
+  margin: 10px;
+  padding: 5 10px;
+}
+.label{
+  font-weight: bolder;
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+
+.form-check{
+  font-size: 14px;
+  font-weight: bolder;
+  margin-left: -20px;
+  padding-top: 10px;
+}
+.form-check-label{
+  font-weight: normal;
+}
